@@ -1,6 +1,6 @@
-# /home
+---
 
-![home/lrg-header-1-01.png](home/lrg-header-1-01.png)
+---
 
 OSMS has received a generous donation of X non-woven polypropylene (NWPP) bags from [retailer redacted until cleared]. Our local response groups have access to this donation to support their efforts in sewing face masks. 
 
@@ -52,9 +52,3 @@ NWPP is an ideal material for this purpose because of its material properties an
     As always, help and support is available for you. We recommend contacting the OSMS Local Response Administrators via the #local-response-connect Slack channel. You can also access support by emailing mfirke@opensourcemedicalsupplies.org. 
 
 ![home/osms-logos_OSMS_LRG_WIDE.svg](home/osms-logos_OSMS_LRG_WIDE.svg)
-
-Copyright 2020
-
-opensourcemedicalsupplies.org
-
-[e] **local@opensourcemedicalsupplies.org**
